@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bat-Mon 
-    text: Phoenix College
+    title: Phoenix College 
+    text: Bat-Mon
     button: Find Out More
     buttonlink: "#services"
 
@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "Bat-Mon Game"
+      - title: "Bat-Mon Feeding Frenzys"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Bat-Mon Program"
@@ -97,8 +97,8 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "atoms_spawn"
+        role: "Lead Programmer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -107,8 +107,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Luz"
+        role: "Programmer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -117,8 +117,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Phillip"
+        role: "Programmer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
