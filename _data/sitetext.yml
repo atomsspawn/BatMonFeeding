@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:help
-    title:  ""
-    text: ""
+    title:  Phoenix
+    text: College
     button: Find Out More
     buttonlink: "#services"
 
