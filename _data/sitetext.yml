@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Phoenix College 
-    text: Bat-Mon
+    title:  
+    text: Phoenix College
     button: Find Out More
     buttonlink: "#services"
 
