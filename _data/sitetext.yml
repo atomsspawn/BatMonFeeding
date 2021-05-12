@@ -22,8 +22,8 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Bat-Mon Feeding Frenzy"
-        desc: "The game is an educational side-scroller where the player controls a bat attempting to fly between obstacles and collect food."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "The game is an educational side-scroller where the player controls a bat attempting to fly between obstacles and collect food that displays various bat facts during game play."
+        icon: fas fa-gamepad #find more at https://fontawesome.com/icons
       - title: "Bat-Mon Program"
         desc: "Due to their secretive nature, bats are extremely difficult to study and relatively little is known about them. Recent advances in technology, however, have allowed us to collect an abundance of data on bats through the use of ultrasonic microphones and recorders. "
         icon: fas fa-laptop
@@ -45,8 +45,8 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2019"
+        desc: "We acquired our first Echometer Touch 2 and began our facination with bats!  We conducted our first walking transcect and discovered...bats are everywhere!"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
