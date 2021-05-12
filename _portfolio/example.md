@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Example
   subtitle: subtitle
-  thumbnail: https://atomsspawn.github.io/BatMonFeeding/IntroSS.png
+  thumbnail: https://atomsspawn.github.io/BatMonFeeding/assets/img/IntroSS.png
   
 #what displays when the item is clicked:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://atomsspawn.githb.io/BatMonFedding/IntroSS.png #main image, can be a link or a file in assets/img/portfolio
+image: https://atomsspawn.githb.io/BatMonFedding/assets/img/IntroSS.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
