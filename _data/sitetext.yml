@@ -10,9 +10,9 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  header:
+  header:help
     title:  
-    text: Phoenix College
+    text: 
     button: Find Out More
     buttonlink: "#services"
 
