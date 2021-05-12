@@ -18,14 +18,14 @@ en: &DEFAULT_EN
 
   services:
     title: "Bat Monitoring"
-    text: "Lorem ipsum"
+    text: "Speak on the imnportance of bat knowledge"
     section: services
     list:
-      - title: "Bat-Mon Feeding Frenzys"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Bat-Mon Feeding Frenzy"
+        desc: "Short game description"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Bat-Mon Program"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Short description of the bat monitoring program."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
@@ -98,7 +98,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "atoms_spawn"
-        role: "Lead Programmer"
+        role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -108,7 +108,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Luz"
-        role: "Programmer"
+        role: "Level Designer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
