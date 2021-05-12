@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Bat-Mon Feeding Frenzy"
-        desc: "Short game description"
+        desc: "The game is an educational side-scroller where the player controls a bat attempting to fly between obstacles and collect food."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Bat-Mon Program"
-        desc: "Short description of the bat monitoring program."
+        desc: "Due to their secretive nature, bats are extremely difficult to study and relatively little is known about them. Recent advances in technology, however, have allowed us to collect an abundance of data on bats through the use of ultrasonic microphones and recorders. "
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
