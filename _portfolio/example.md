@@ -5,9 +5,9 @@ caption: #what displays in the portfolio grid:
   thumbnail: https://github.com/atomsspawn/BatMonFeeding/master/assets/img/IntroSS.jpg
   
 #what displays when the item is clicked:
-title: Title
+title: Intro Game Level
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://github.com/atomsspawn/BatMonFeeding/blob/master/assets/img/IntroSS.jpg #main image, can be a link or a file in assets/img/portfolio
+image: https://github.com/atomsspawn/BatMonFeeding/blob/32870fe150b8c5d2d4ccecf715eafa471e19bc7c/assets/img/IntroSS.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
