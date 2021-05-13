@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Example
   subtitle: subtitle
-  thumbnail: https://github.com/atomsspawn/BatMonFeeding/master/assets/img/IntroSS.jpg
+  thumbnail: https://github.com/atomsspawn/BatMonFeeding/blob/32870fe150b8c5d2d4ccecf715eafa471e19bc7c/assets/img/IntroSS.jpg
   
 #what displays when the item is clicked:
 title: Intro Game Level
