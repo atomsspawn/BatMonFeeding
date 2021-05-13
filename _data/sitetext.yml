@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Bat Monitoring"
-    text: "The American Society of Mammologists list over 1400 different species of bats.  Arizona is home to 29 different species of bats and each bat species produces a unique ultrasonic echolocation call that through the use of software can be identified to a specific species."
+    text: "The American Society of Mammologists list over 1400 different species of bats and Arizona is home to 29 different species. Each bat species produces a unique ultrasonic echolocation call that through the use of software can be identified to a specific species. Reasearchers at Phoenix College are looking to collaborate with researchers and citizen scientist around the world to collect bat echolocation calls"
     section: services
     list:
       - title: "Bat-Mon Feeding Frenzy"
