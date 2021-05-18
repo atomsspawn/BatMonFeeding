@@ -109,7 +109,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Luz"
         role: "Level Designer"
-        image: assets/img/team/luz.png
+        image: assets/img/team/LuzPhoto.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
