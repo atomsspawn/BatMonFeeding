@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Intro Game Level
-  subtitle: subtitle
+  subtitle: Be The Bat
   thumbnail: https://raw.githubusercontent.com/atomsspawn/BatMonFeeding/master/assets/img/IntroSS.jpg
   
 #what displays when the item is clicked:
