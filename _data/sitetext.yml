@@ -24,7 +24,7 @@ en: &DEFAULT_EN
       - title: "Bat-Mon Feeding Frenzy"
         desc: "The game is an educational side-scroller where the player controls a bat attempting to fly between obstacles and collect food that displays various bat facts during game play."
         icon: fas fa-gamepad #find more at https://fontawesome.com/icons
-      - title: "Bat-Mon Program"
+      - title: "[Bat-Mon Program]("https://sciencebase.usgs.gov/nabat/#/explore/visualizations)"
         desc: "Due to their secretive nature, bats are extremely difficult to study and relatively little is known about them. Recent advances in technology, however, have allowed us to collect an abundance of data on bats through the use of ultrasonic microphones and recorders. "
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
@@ -93,7 +93,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "scientia sit potentia"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
