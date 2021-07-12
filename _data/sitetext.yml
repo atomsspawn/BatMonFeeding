@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "The American Society of Mammologists list over 1400 different species of bats and Arizona is home to 29 different species. Each bat species produces a unique ultrasonic echolocation call that through the use of software can be identified to a specific species. Reasearchers at Phoenix College are looking to collaborate with researchers and citizen scientist around the world to collect bat echolocation calls"
     section: services
     list:
-      - title: "Bat-Mon Feeding Frenzy"
+      - title: "[Bat-Mon Feeding Frenzy](https://atomsspawn.github.io/BatMon-WebGL/)"
         desc: "The game is an educational side-scroller where the player controls a bat attempting to fly between obstacles and collect food that displays various bat facts during game play."
         icon: fas fa-gamepad #find more at https://fontawesome.com/icons
       - title: "[Bat-Mon Program](https://sciencebase.usgs.gov/nabat/#/explore/visualizations)"
