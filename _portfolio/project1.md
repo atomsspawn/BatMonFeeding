@@ -9,10 +9,9 @@ caption:
   subtitle: Bat Fact
   thumbnail: https://raw.githubusercontent.com/atomsspawn/BatMonFeeding/master/assets/img/GameOverSS.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+BatMon Feeding Frenzy uses a video game to diseminate accurate information about bats and their habitats to counter misinformation regarding bats to held alliviate their persecution.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: January 2021
+
 
